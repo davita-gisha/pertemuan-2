@@ -1,0 +1,25 @@
+<!DOCTYPE Html>
+<html>
+
+<head>
+	<title></title>
+	<link rel="stylesheet" href="Style.css">
+</head>
+<body>
+	<h1>Park jimin</h1>
+	<a href="https://twitter.com/BTS_twt/status/1157987689670443009?s=08"></a>
+	<img src="Park jimin.jpg" width="70" height="100">
+	<p id="p1">Park jimin adalah seoranng idol korea yg bergabung dalam grup yang bernama Bangtan Boys atau BTS di Big Hit Entertainment, lahir di Busan 13 Oktober 1996 ia lulusan High School Art Busan dan menjadi siswa terbaik di sekolahnya. Setelah bergabung di BTS dan debut tercepat diantara anggota BTS lainnya kemudian ia mendapatkan nama panggung Jimin(mochi).
+	</p>
+	<p class="p2">Park jimin terkenal dengan senyumnya bagai malaikat yang membuat semua orang meleleh</p>
+	<ol>
+		<li>Nama lengkap           : Park Jimin </li>
+		<li>T-tanggal lahir        : Busan, 13 Oktober 1996 </li>
+		<li>Pendidikian terakhir   : High School Art Busan </li>
+		<li>Status                 : Belum menikah </li>
+		<li>keahlian               : Dance, menyanyi </li>
+		<li>Pekerjaan              : Idol </li>
+	</ol>
+</body>
+
+</html>
