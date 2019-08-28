@@ -1,0 +1,21 @@
+h1{color: gray;}
+p{
+	font-family: verdana;
+	font-size: 15px;
+	font-weight: 39px;
+}
+
+li{
+	color: tomato;
+	font-family: verdana;
+	font-size: 15px;
+}
+body{
+	background-color: pink;
+}
+#p1{
+	color :indigo;
+}
+.p2{
+	color: darkblue;
+}
